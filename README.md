@@ -3,6 +3,13 @@
 ## I like gaming 
 
 ## I like cars
+
+## I like traveling
+
+## I like music
+
+## I like shawarma
+
 <!--
 **vahakobyan26htla/vahakobyan26htla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
